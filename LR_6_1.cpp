@@ -13,12 +13,12 @@ int main()
     SetConsoleOutputCP(1251);
     int chyslo;
     double secondchyslo;
-    cout << "Введіть ціле число: ";
+    cout << "Enter chyslo: ";
     cin >> chyslo;
-    cout << "Введіть дійсне число: ";
+    cout << "пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ: ";
     cin >> secondchyslo;
-    cout << "\nМодуль цілого числа " << chyslo << " = " << modul(chyslo);
-    cout << "\nМодуль дійсного числа " << secondchyslo << " = " << modul(secondchyslo)<<"\n";
+    cout << "\nпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ " << chyslo << " = " << modul(chyslo);
+    cout << "\nпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ " << secondchyslo << " = " << modul(secondchyslo)<<"\n";
 
 }
 
