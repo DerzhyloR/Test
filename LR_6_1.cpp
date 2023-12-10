@@ -15,7 +15,7 @@ int main()
     double secondchyslo;
     cout << "Enter namber= ";
     cin >> chyslo;
-    cout << "Enter second namber= ";
+    cout << "Enter second chyslo= ";
     cin >> secondchyslo;
     cout << "\n������ ������ ����� " << chyslo << " = " << modul(chyslo);
     cout << "\n������ ������� ����� " << secondchyslo << " = " << modul(secondchyslo)<<"\n";
