@@ -13,9 +13,9 @@ int main()
     SetConsoleOutputCP(1251);
     int chyslo;
     double secondchyslo;
-    cout << "Enter chyslo: ";
+    cout << "Enter namber= ";
     cin >> chyslo;
-    cout << "������ ����� �����: ";
+    cout << "Enter second namber= ";
     cin >> secondchyslo;
     cout << "\n������ ������ ����� " << chyslo << " = " << modul(chyslo);
     cout << "\n������ ������� ����� " << secondchyslo << " = " << modul(secondchyslo)<<"\n";
